@@ -1,5 +1,5 @@
 This is lines added into master
 this is one line added into feature-branch
 This is a new feature.
-1234456
+1234
 Good to see all cheanges
